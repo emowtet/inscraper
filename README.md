@@ -10,7 +10,7 @@ It captures employee names, descriptions, and profile links from a specified com
 Git clone this repository:
 
 ```
-$ git clone https://github.com/stuxweet/inscraper
+$ git clone https://github.com/emowtet/inscraper
 $ cd inscraper
 $ python -m pip install -r requirements.txt
 ```
