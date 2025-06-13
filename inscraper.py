@@ -1,6 +1,6 @@
 """
 InScraper
-Author: stuxweet
+Author: emowtet
 
 A Python script to scrape public profile information from the People section of a LinkedIn company page.
 Uses Selenium WebDriver and Chrome.
