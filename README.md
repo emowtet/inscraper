@@ -3,6 +3,7 @@
 A simple scraper for LinkedIn using Selenium and Chrome.  
 It captures employee names, descriptions, and profile links from a specified company and saves the data in a CSV file separated by semicolons.
 
+> [!NOTE] 
 > LinkedIn updates its code frequently, so this script might require constant updates.  
 ***  
 ## Installation
